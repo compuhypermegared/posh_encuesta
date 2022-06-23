@@ -1,0 +1,42 @@
+
+HTML{background-color: slategrey;}
+
+.FONDO{background-color: slategrey;
+margin:0;
+padding:15px}
+
+
+
+.texto1{color: ANTIQUEWHITE;
+font-size: 8rem;
+text-align: center;
+font-family: 'Futura Std Condensed';
+padding-top: 3rem;}
+
+
+.texto2{color: ANTIQUEWHITE;
+font-size: 3rem;
+text-align: center;
+font-family: 'Futura Std Condensed';
+padding-top: 4rem;}
+
+img{margin-top: 6rem;
+margin-bottom: 6rem;}
+
+Button.btn{background-color:#39383b;
+border-color: white;
+color:white;
+font-family: 'Futura Std Condensed';
+font-size: 3rem;
+margin-left: 30%;
+margin-right: 30%;}
+
+Button.btn:hover{background-color: lightgrey;
+  font-family: 'Futura Std Condensed';
+border-color: white;
+color:BLACK;}
+
+.footer1{margin-bottom: 3px;
+  background-color: slategrey;
+color:white;
+font-size: 1.2rem;}
